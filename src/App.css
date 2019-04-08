@@ -30,3 +30,15 @@
     transform: rotate(360deg);
   }
 }
+
+.form-container {
+  margin: 0 auto;
+  width: 850px;
+}
+
+@media screen and (max-width: 1000px) {
+  .form-container {
+    margin: 0 auto;
+    width: 100%;
+  }
+}
