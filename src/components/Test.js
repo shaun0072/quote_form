@@ -268,7 +268,10 @@ export default class SearchExampleStandard extends Component {
           {text:'ASTM B633-19, SC4, Type V', key: 4, value: 'ASTM B633-19, SC4, Type V'},
           {text:'EControls E2159-001-010', key: 5, value: 'EControls E2159-001-010'},
           {text:'Eaton ES2751(K)', key: 6, value: 'Eaton ES2751(K)'},
-          {text:'McElroy ES264B', key: 7, value: 'McElroy ES264B'}
+          {text:'McElroy ES264B', key: 7, value: 'McElroy ES264B'},
+          {text:'Crosby ST-359(1)', key: 8, value: 'Crosby ST-359(1)'},
+          {text:'JDS 117 Fe/Zn 5-15 C', key: 9, value: 'JDS 117 Fe/Zn 5-15 C'},
+          {text:'JDM F23C', key: 10, value: 'JDM F23C'}
         ];
       case 'Rack Zinc Plate/Yellow Chromate':
         return [
