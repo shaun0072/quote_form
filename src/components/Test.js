@@ -290,7 +290,8 @@ export default class SearchExampleStandard extends Component {
           {text:'Deere JDS 117, Fe/Zn 5-15c C', key: 4, value: 'Deere JDS 117, Fe/Zn 5-15c C'},
           {text:'Deere JDM F23C', key: 5, value: 'Deere JDM F23C'},
           {text:'JDM F23C-2A', key: 6, value: 'JDM F23C-2A'},
-          {text:'Altec MTS-0016(D)', key: 7, value: 'Altec MTS-0016(D)'}
+          {text:'Altec MTS-0016(D)', key: 7, value: 'Altec MTS-0016(D)'},
+          {text:'Weber Aircraft WPS-217', key: 8, value: 'Weber Aircraft WPS-217'}
         ];
       case 'Barrel Zinc Plate/Yellow Chromate':
         return [
@@ -298,6 +299,7 @@ export default class SearchExampleStandard extends Component {
           {text: 'ASTM B633-19, SC2, Type VI', key: 2, value: 'ASTM B633-19, SC2, Type VI'},
           {text: 'ASTM B633-19, SC3, Type VI', key: 3, value: 'ASTM B633-19, SC3, Type VI'},
           {text: 'Altec MTS-0016-D', key: 4, value: 'Altec MTS-0016-D'},
+          {text: 'Wescon ES-60008', key: 5, value: 'Wescon ES-60008'}
         ];
       case 'Electroless Nickel Plate':
         return [
