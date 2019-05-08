@@ -360,7 +360,8 @@ export default class SearchExampleStandard extends Component {
         ];
       case 'Hard Anodize':
         return [
-          {text: 'MIL-A-8625F, Type III, Class 1', key: 1, value: 'MIL-A-8625F, Type III, Class 1'}
+          {text: 'MIL-A-8625F, Type III, Class 1', key: 1, value: 'MIL-A-8625F, Type III, Class 1'},
+          {text: 'McElroy ES263A', key: 2, value: 'McElroy ES263A'}
         ];
       case 'Clear Anodize':
         return [
