@@ -340,7 +340,8 @@ export default class SearchExampleStandard extends Component {
           {text: 'AMS-QQ-P-35, Type II', key: 6, value: 'AMS-QQ-P-35, Type II'},
           {text: 'Weber WPS-204(J)', key: 7, value: 'Weber WPS-204(J)'},
           {text: 'AMS 2700E, Method 1, Type 6', key: 8, value: 'AMS 2700E, Method 1, Type 6'},
-          {text: 'Mil-STD-171, Par. 5.4.1', key: 9, value: 'Mil-STD-171, Par. 5.4.1'}
+          {text: 'Mil-STD-171, Par. 5.4.1', key: 9, value: 'Mil-STD-171, Par. 5.4.1'},
+          {text: 'AMS 2700(E), Method 1, Type 2, Class 4', key: 10, value: 'AMS 2700(E), Method 1, Type 2, Class 4'}
         ];
       case 'Chemical Conversion Coat/Yellow':
         return [
