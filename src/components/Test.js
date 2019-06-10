@@ -313,7 +313,8 @@ export default class SearchExampleStandard extends Component {
           {text: 'ASTM B733-15, Type IV, SC 4, Class 2', key: 8, value: 'ASTM B733-15, Type IV, SC 4, Class 2'},
           {text: 'ENC 4E00601(B), Code C01', key: 9, value: 'ENC 4E00601(B), Code C01'},
           {text: 'MIL-C-26074(E), Class 1, Grade B', key: 10, value: 'MIL-C-26074(E), Class 1, Grade B'},
-          {text: 'Mil-C-26074(E), Class 2, Grade C', key: 11, value: 'Mil-C-26074(E), Class 2, Grade C'}
+          {text: 'Mil-C-26074(E), Class 2, Grade C', key: 11, value: 'Mil-C-26074(E), Class 2, Grade C'},
+          {text: 'Mil-C-26074(E), Class 1, Grade A', key: 12, value: 'Mil-C-26074(E), Class 1, Grade A'}
         ];
       case 'Zinc Phosphate':
         return [
