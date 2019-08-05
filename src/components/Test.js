@@ -324,7 +324,8 @@ export default class SearchExampleStandard extends Component {
           {text: 'MIL-DTL-16232G, Type Z, Class 1', key: 1, value: 'MIL-DTL-16232G, Type Z, Class 1'},
           {text: 'MIL-DTL-16232G, Type Z, Class 2', key: 2, value: 'MIL-DTL-16232G, Type Z, Class 2'},
           {text: 'MIL-DTL-16232G, Type Z, Class 3', key: 3, value: 'MIL-DTL-16232G, Type Z, Class 3'},
-          {text: 'MIL-DTL-16232G, Type Z, Class 4', key: 4, value: 'MIL-DTL-16232G, Type Z, Class 4'}
+          {text: 'MIL-DTL-16232G, Type Z, Class 4', key: 4, value: 'MIL-DTL-16232G, Type Z, Class 4'},
+          {text: 'Citadel SCO.00001(A)', key: 4, value: 'Citadel SCO.00001(A)'}
         ];
       case 'Manganese Phosphate':
         return [
