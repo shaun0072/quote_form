@@ -273,7 +273,8 @@ export default class SearchExampleStandard extends Component {
           {text:'JDS 117 Fe/Zn 5-15 C', key: 9, value: 'JDS 117 Fe/Zn 5-15 C'},
           {text:'JDM F23C', key: 10, value: 'JDM F23C'},
           {text:'F23, Fe/Zn 5cC', key: 11, value: 'F23, Fe/Zn 5cC'},
-          {text:'JDS117, Fe/Zn 5-10c C', key: 12, value: 'JDS117, Fe/Zn 5-10c C'}
+          {text:'JDS117, Fe/Zn 5-10c C', key: 12, value: 'JDS117, Fe/Zn 5-10c C'},
+          {text:'Crosby ST-350(1)', key: 13, value: 'Crosby ST-350(1)'}
         ];
       case 'Rack Zinc Plate/Yellow Chromate':
         return [
