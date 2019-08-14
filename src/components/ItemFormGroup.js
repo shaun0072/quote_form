@@ -46,7 +46,7 @@ export default class ItemFormGroup extends Component {
               index={index}
               type="number"
               min="0"
-              step={0.01}
+              step={0.001}
               groupname={groupname}
               label={<Dropdown
                 name="unit"
