@@ -40,7 +40,7 @@ const print = (company, contact="", email="", phone="", date, items, spec, bakeR
   for(var i=0;i<items.length;i++) {//Items
     if(items[i].partNumber) {
       var number = i + 1;
-      var costUOM = '$' + parseFloat(Math.round(items[i].cost * 100) / 100).toFixed(3) + items[i].unit;
+      var costUOM = '$' + parseFloat(Math.round(items[i].cost * 1000) / 1000).toFixed(3) + items[i].unit;
       positiony = positiony + 6.24;
       doc.text(28, positiony, number.toString())
       doc.text(41, positiony, items[i].partNumber)
