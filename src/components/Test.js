@@ -284,7 +284,8 @@ export default class SearchExampleStandard extends Component {
           {text: 'ASTM B633-19, SC4, Type VI', key: 4, value: 'ASTM B633-19, SC4, Type VI'},
           {text: 'Altec MTS-0016-D', key: 5, value: 'Altec MTS-0016-D'},
           {text: 'McElroy ES264A', key: 6, value: 'McElroy ES264A'},
-          {text: 'Crosby ST-353', key: 7, value: 'Crosby ST-353'}
+          {text: 'Crosby ST-353', key: 7, value: 'Crosby ST-353'},
+          {text: 'ESF-3011-A', key: 8, value: 'ESF-3011-A'}
         ];
       case 'Barrel Zinc Plate/Clear Chromate':
         return [
