@@ -352,7 +352,8 @@ export default class SearchExampleStandard extends Component {
           {text: 'Mil-STD-171, Par. 5.4.1', key: 9, value: 'Mil-STD-171, Par. 5.4.1'},
           {text: 'AMS 2700(E), Method 1, Type 2, Class 4', key: 10, value: 'AMS 2700(E), Method 1, Type 2, Class 4'},
           {text: 'AMS 2700(E), Method 1, Type 7', key: 11, value: 'AMS 2700(E), Method 1, Type 7'},
-          {text: 'QQ-P-35(C), Type VII', key: 12, value: 'QQ-P-35(C), Type VII'}
+          {text: 'QQ-P-35(C), Type VII', key: 12, value: 'QQ-P-35(C), Type VII'},
+          {text: 'ASTM A380', key: 13, value: 'ASTM A380'}
         ];
       case 'Chemical Conversion Coat/Yellow':
         return [
@@ -368,7 +369,8 @@ export default class SearchExampleStandard extends Component {
           {text: 'B/E Aerospace SPG-MPS-006', key: 3, value: 'B/E Aerospace SPG-MPS-006'},
           {text: 'Zodiac WPS-206(AE)', key: 4, value: 'Zodiac WPS-206(AE)'},
           {text: 'Mil-Std-171, Par. 7.3.1', key: 5, value: 'Mil-Std-171, Par. 7.3.1'},
-          {text: 'ENC 4E00601(B), Code D01', key: 6, value: 'ENC 4E00601(B), Code D01'}
+          {text: 'ENC 4E00601(B), Code D01', key: 6, value: 'ENC 4E00601(B), Code D01'},
+          {text: 'Halliburton 68.02002(F), Type II', key: 7, value: 'Halliburton 68.02002(F), Type II'}
         ];
       case 'Hard Anodize':
         return [
